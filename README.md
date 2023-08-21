@@ -1,8 +1,19 @@
-# React + Vite
+# React-E-commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto estara creado en 
 
-Currently, two official plugins are available:
+# Frontend
+- react
+- vite
+- css
+- html
+- javascript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Backend
+- java v-17
+- Spring 3.1.2
+- Spring Boot 
+- Mysql 
+
+#Descripcion
+- En proceso...
